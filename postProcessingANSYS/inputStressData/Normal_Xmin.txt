@@ -1,0 +1,1 @@
+Node Number	Normal Stress (MPa)

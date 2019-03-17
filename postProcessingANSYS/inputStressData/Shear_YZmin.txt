@@ -1,0 +1,1 @@
+Node Number	Shear Stress (MPa)
