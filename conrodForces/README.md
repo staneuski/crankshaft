@@ -3,7 +3,7 @@
 
 ### Блок-схема работы программы на примере расчёта колена вала на циклическую прочность (с определением коэффициента запаса в postProcessingANSYS)
 ![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/conrodForcesToPostProcANSYS.png)
-https://github.com/StasF1/postProcessingANSYS
+[postProcessingANSYS](https://github.com/StasF1/crankshaft/tree/master/postProcessingANSYS)
 
 # Порядок работы с программой
 ## Индикаторная диаграмма
