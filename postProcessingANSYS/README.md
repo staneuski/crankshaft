@@ -3,7 +3,7 @@
 
 ### Схема работы программы на примере расчёта колена вала на циклическую прочность (вместе с conrodForces)
 ![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/conrodForcesToPostProcANSYS.png)
-https://github.com/StasF1/conrodForces
+https://github.com/StasF1/crankshaft/conrodForces
 
 # Порядок работы с программой
 ## Импортирование данных
