@@ -2,7 +2,7 @@
 Программа определяет максимальную и минимальную силу К действующую на шатуны. Углы между ними и плоскостью симметрии колена вала при действии экстримальных нагрузок
 
 ### Блок-схема работы программы на примере расчёта колена вала на циклическую прочность (с определением коэффициента запаса в postProcessingANSYS)
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/conrodForcesToPostProcANSYS.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/conrodForces/conrodForcesToPostProcANSYS.png)
 [postProcessingANSYS](https://github.com/StasF1/crankshaft/tree/master/postProcessingANSYS)
 
 # Порядок работы с программой
@@ -18,14 +18,14 @@
 
 ## Результаты работы
 ### Силы в цилиндро-поршневой группе
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/forcesTZK.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/conrodForces/forcesTZK.png)
 
 Бирозовыми точками обозначается минимум и максимум действующих вдоль шатуна сил
 
 ### Варианты нагружения коленчатого вала при экремальных нагрузках
 Максимальная нагрузка      |  Минимальная нагрузка
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/loadingModels-Max.png)  |  ![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/loadingModels-Min.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/conrodForces/loadingModels-Max.png)  |  ![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/conrodForces/loadingModels-Min.png)
 
 ---
 ### Пример отчёта

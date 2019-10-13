@@ -2,7 +2,7 @@
 Программа определяет коэфицент запаса циклической прочности обрабатывая полученные в ANSYS распределения напряжений на детали
 
 ### Схема работы программы на примере расчёта колена вала на циклическую прочность (вместе с conrodForces)
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/conrodForces/conrodForcesToPostProcANSYS.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/conrodForces/conrodForcesToPostProcANSYS.png)
 [conrodForces](https://github.com/StasF1/crankshaft/tree/master/conrodForces)
 
 # Порядок работы с программой

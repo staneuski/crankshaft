@@ -14,16 +14,16 @@
 
 ## Результаты работы
 ### Силы действующие на поршень
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/flywheel/forcesInCombustor.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/flywheel/forcesInCombustor.png)
 
 ### Силы в цилиндро-поршневой группе
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/flywheel/forcesTZK.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/flywheel/forcesTZK.png)
 
 ### Мгновенный и средний крутящие моменты
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/flywheel/torqueMoment.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/flywheel/torqueMoment.png)
 
 ### Работа крутящего момента
-![alt text](https://github.com/StasF1/READMEPictures/blob/master/flywheel/workOfMoment.png)
+![alt text](https://github.com/StasF1/crankshaft/blob/master/etc/images/flywheel/workOfMoment.png)
 ---
 ### Пример отчёта
 <pre><code>
